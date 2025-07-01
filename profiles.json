@@ -1,0 +1,13 @@
+{
+    "Tori Murphy": {
+        "vaccines": [
+            "MMR (Measles, Mumps, Rubella)",
+            "DTaP (Diphtheria, Tetanus, Pertussis)",
+            "Polio (IPV)",
+            "Hepatitis B",
+            "Hib (Haemophilus influenzae type b)",
+            "Varicella (Chickenpox)",
+            "COVID-19"
+        ]
+    }
+}
